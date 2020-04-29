@@ -1,8 +1,11 @@
 App Url from cloud foundry: clebrityclassifier-appreciative-otter-hu.cfapps.io
+
 Number of classes : 4
 Training Accuracy: 1.00
 Validation Accuracy: 0.88
 
-Images to test the apps are provided.
+Train & Val Dataset, Flask App files and Model files are uploaded to below Google drive as Github has size limit.
 
-Have used 4 celebrity as classes. They are Abdul Kalam, Mahendra Singh Dhoni, Nayanthara and Yuvan Shankar Raja
+https://drive.google.com/drive/folders/1IimQt8MGnxs_zAuSMGBqjT0KHBmYCOEe?usp=sharing
+
+Have used 4 celebrity as classes. They are Abdul Kalam, Mahendra Singh Dhoni, Nayanthara and Yuvan Shankar Raja. Did not use family members/friends to maintain privacy.
